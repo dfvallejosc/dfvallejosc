@@ -1,105 +1,30 @@
-# Título del Proyecto
+# Hi, I'm Diego Vallejos
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_I am a pasionate, ingenious and creative fullstack developer with knowledge on PERN Stack (Postgress, Express, Reactive and Node) for development of web and mobile aplications._
 
-## Comenzando 🚀
+### :computer: Languages:
+:heavy_check_mark: Data structure and algorithms
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+:heavy_check_mark: HTML5 | CSS | SASS | Less | Bootstrap
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+:heavy_check_mark: JavaScript
 
+:heavy_check_mark: React | Redux 
 
-### Pre-requisitos 📋
+:heavy_check_mark: Nodejs | Express
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+:heavy_check_mark: SQL | PostgreSQL | Sequelize
 
-```
-Da un ejemplo
-```
+heavy_check_mark: Git | GitHub
 
-### Instalación 🔧
+heavy_check_mark: AJAX
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+<hr />
 
-_Dí cómo será ese paso_
+### :pushpin: Projects
 
-```
-Da un ejemplo
-```
+<h5 align="center">Dogs Breeds</h5>
 
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+<p align="center"><img src="https://i.ibb.co/2M2F7dt/DogsCArd.png" width="400" /></p>
+<p align="center"><img src="https://i.ibb.co/FqYJtLN/Home.png" width="400" /></p>
+<p align="center"><img src=""https://i.ibb.co/bQXkXK3/Landing-Page.png" width="400" /></p>
