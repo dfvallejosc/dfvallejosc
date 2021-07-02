@@ -25,7 +25,7 @@ _I am a pasionate, ingenious and creative fullstack developer with knowledge on 
 
 ### :pushpin: Projects
 
-<h5 align="center">K-Mora e-commerce</h5>
+<h5 align="center" font-size="20px">K-Mora e-commerce</h5>
 
 <p>Project for a little colombian business called <a href='https://www.instagram.com/k.mora_accesorios/'>K-Mora-Accesorios</a>.  This e-commerce has an admin panel, where you can add, update and delete products, see sales statistics, add publicity banners and controls sell orders.  The users of this website can buy handcrafted jewelry made buy a colombian enterprising (only avalaible for Colombia).</p>
 
