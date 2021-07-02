@@ -34,6 +34,8 @@ _I am a pasionate, ingenious and creative fullstack developer with knowledge on 
 <p align="center"><img src="https://i.ibb.co/fQfxS7M/kmora-cart.png" width="400" /></p>
 <p align="center"><img src="https://i.ibb.co/4WgK9yF/kmora-admin-products.png" width="400" /></p>
 
+<hr />
+
 <h5 align="center">Dogs Breeds</h5>
 
 <p>Project developed in SoyHenry bootcamp as an academic exercise.  In this app you can search, sort by alphabet and weight more than 200 dogs breeds.  You can make your own breed as well!</p>
