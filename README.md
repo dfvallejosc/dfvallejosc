@@ -25,6 +25,6 @@ heavy_check_mark: AJAX
 
 <h5 align="center">Dogs Breeds</h5>
 
-<p align="center"><img src="https://i.ibb.co/2M2F7dt/DogsCArd.png" width="400" /></p>
+<p align="center"><img src="https://i.ibb.co/bQXkXK3/Landing-Page.png" width="400" /></p>
 <p align="center"><img src="https://i.ibb.co/FqYJtLN/Home.png" width="400" /></p>
-<p align="center"><img src=""https://i.ibb.co/bQXkXK3/Landing-Page.png" width="400" /></p>
+<p align="center"><img src="https://i.ibb.co/2M2F7dt/DogsCArd.png" width="400" /></p>
